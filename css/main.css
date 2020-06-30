@@ -1,0 +1,95 @@
+.doodle{
+    margin:auto;
+    margin-top: 3.5%;
+    width: 500px;
+}
+.nav-bar{
+    min-width: 181px;
+    z-index: 987;
+    display: flex;
+    float: right;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    text-align: right;
+    align-items: center;
+    justify-content: flex-end;
+    -moz-user-select: -moz-none;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    white-space: nowrap;
+    color: #222;
+}
+.nav-bar  ul li{
+    display: inline;
+    font-size: 13px;
+    margin-right: 7px;
+}
+.nav-bar  ul li a{
+    color: #222;
+    text-decoration: none;
+}
+.nav-bar{
+    position: absolute;
+    right: 5%;
+    top: 3%;
+}
+.form{
+    margin:auto;
+    margin-top:3%;
+    width: 43%;
+}
+form {
+    margin: auto;
+}
+.search-box{
+    margin :auto;
+    font: 16px arial,sans-serif;
+    padding: 7px 40px;
+    width:100%;
+    border-radius:24px;
+    border-color: rgb(170, 170, 170);
+    border-style: solid;
+    border-width: 1px;
+}
+.gNO89b{
+    background-color: rgb(242, 242, 242);
+    background-image: -moz-linear-gradient(rgb(245, 245, 245), rgb(241, 241, 241));
+    border-bottom-color: rgb(242, 242, 242);
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-image-slice: 100%;
+    border-image-source: none;
+    border-image-width: 1;
+    border-left-color: rgb(242, 242, 242);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-right-color: rgb(242, 242, 242);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-top-color: rgb(242, 242, 242);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    color: rgb(95, 99, 104);
+    cursor: pointer;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    height: 36px;
+    line-height: 27px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 11px;
+    min-width: 54px;
+    padding-bottom: 0px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 0px;
+    text-align: center;
+}
